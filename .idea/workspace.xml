@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff5b34f9-205e-44d9-9527-b0567088397c" name="Changes" comment="changed" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TIK0pr71lzPQju2XZSBV8wmubu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "copyright.profiles"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MKU-RESEARCH\Desktop\pyqt5\gui" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff5b34f9-205e-44d9-9527-b0567088397c" name="Changes" comment="" />
+      <created>1690724934840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690724934840</updated>
+    </task>
+    <task id="LOCAL-00001" summary="changed">
+      <option name="closed" value="true" />
+      <created>1690877861059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690877861059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed">
+      <option name="closed" value="true" />
+      <created>1691072808988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691072809058</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="8858d4">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/main.py" />
+                </list>
+              </option>
+              <option name="id" value="8858d4" />
+              <option name="initiateTms" value="1691062058897" />
+              <option name="request" value="generate licences for the code written br Evans Murunga Etyang " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To generate a license for the code written by Evans Murunga Etyang, you can use an online tool or follow these steps to manually create a license file:&#10;&#10;1. Open a text editor or IDE.&#10;2. Create a new file and name it `LICENSE` (all caps).&#10;3. Choose a license type that suits your needs. Some popular open-source licenses include MIT License, Apache License 2.0, and GNU General Public License (GPL).&#10;4. Add the license text to the `LICENSE` file. Here's an example using the MIT License:&#10;&#10;```&#10;MIT License&#10;&#10;Copyright (c) [year] [author]&#10;&#10;Permission is hereby granted, free of charge, to any person obtaining a copy&#10;of this software and associated documentation files (the &quot;Software&quot;), to deal&#10;in the Software without restriction, including without limitation the rights&#10;to use, copy, modify, merge, publish, distribute, sublicense, and/or sell&#10;copies of the Software, and to permit persons to whom the Software is&#10;furnished to do so, subject to the following conditions:&#10;&#10;The above copyright notice and this permission notice shall be included in all&#10;copies or substantial portions of the Software.&#10;&#10;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR&#10;IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,&#10;FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE&#10;AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER&#10;LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,&#10;OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE&#10;SOFTWARE.&#10;```&#10;&#10;Replace `[year]` with the current year and `[author]` with &quot;Evans Murunga Etyang&quot; or your preferred name.&#10;&#10;5. Save the `LICENSE` file in the root directory of your project.&#10;&#10;By including a license file in your project, you are clearly stating the permissions and restrictions for using and distributing your code. It's important to choose a license that aligns with your intentions for the code." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1691062069844" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/main.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="feca71">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/main.py" />
+                </list>
+              </option>
+              <option name="id" value="feca71" />
+              <option name="initiateTms" value="1691061783091" />
+              <option name="request" value="create readme for github and add password to admin is 123456" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To create a README file for your GitHub repository, you can follow these steps:&#10;&#10;1. Create a new file in your repository's root directory.&#10;2. Name the file `README.md` (`.md` stands for Markdown).&#10;3. Open the `README.md` file and add the following content:&#10;&#10;```markdown&#10;# Project Name&#10;&#10;This is a login application built using PyQt5.&#10;&#10;## Description&#10;&#10;This application allows users to log in with their username and password. It provides different functionalities based on the user's role (admin or non-admin).&#10;&#10;## Features&#10;&#10;- User authentication&#10;- Admin dashboard with additional features&#10;- POS dashboard for non-admin users&#10;&#10;## Installation&#10;&#10;1. Clone the repository:&#10;&#10;   ```shell&#10;   git clone https://github.com/your-username/your-repository.git&#10;   ```&#10;&#10;2. Install the required dependencies:&#10;&#10;   ```shell&#10;   pip install PyQt5&#10;   ```&#10;&#10;## Usage&#10;&#10;1. Run the application:&#10;&#10;   ```shell&#10;   python main.py&#10;   ```&#10;&#10;2. Enter your username and password to log in.&#10;&#10;## Configuration&#10;&#10;To set the password for the admin user, follow these steps:&#10;&#10;1. Open the `main.py` file.&#10;2. Locate the `self_login` method.&#10;3. Find the line that says `if username == &quot;admin&quot;:`.&#10;4. Replace the existing code inside the `if` block with the following:&#10;&#10;   ```python&#10;   if username == &quot;admin&quot; and password == &quot;123456&quot;:&#10;   ```&#10;&#10;5. Save the file.&#10;&#10;## License&#10;&#10;[MIT License](LICENSE)&#10;```&#10;&#10;Make sure to replace `your-username` and `your-repository` with your actual GitHub username and repository name.&#10;&#10;Regarding setting the password for the admin user, you can follow the steps mentioned in the README file. The password for the admin user can be set to &quot;123456&quot; by modifying the `self_login` method in the `main.py` file." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1691061798169" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/main.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
