@@ -2,7 +2,6 @@ from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 import databaseApi.pos_generatebill.generate_bill as bill_generate
 from gui import time_day, dashboard
-from gui import time_day, dashboard
 import time
 import main
 
